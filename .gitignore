@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.so
+*.log
+wandb/
+*.tar.gz
+.ipynb_checkpoints/
+.DS_Store
